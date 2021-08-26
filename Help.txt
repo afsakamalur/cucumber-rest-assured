@@ -16,3 +16,9 @@ git push -u origin main
 git remote add origin https://github.com/afsakamalur/cucumber-rest-assured.git
 git branch -M main
 git push -u origin main
+
+git add filename
+git commit -m ""
+git push -u origin remoteBranchName
+
+git pull 
